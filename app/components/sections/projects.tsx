@@ -21,6 +21,7 @@ interface Project {
 
 export function Projects() {
   const [hoveredProject, setHoveredProject] = useState<number | null>(null);
+  console.log(hoveredProject)
 
   const projects: Project[] = [
     {

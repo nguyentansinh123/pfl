@@ -248,7 +248,7 @@ export function Contact() {
                   </div>
                   <h4 className="text-xl font-bold mb-2">Message Sent!</h4>
                   <p className="text-foreground/70">
-                    Thank you for reaching out. I'll get back to you soon.
+                    Thank you for reaching out. I will get back to you soon.
                   </p>
                 </motion.div>
               ) : (
@@ -423,16 +423,16 @@ export function Contact() {
                 </div>
 
                 <p className="text-foreground/80 mb-6 leading-relaxed">
-                  Hello! I'm a passionate fullstack developer on the verge of
+                  Hello! I am a passionate fullstack developer on the verge of
                   graduating with a fresh perspective and enthusiasm for
-                  technology. I've developed a strong foundation in both
+                  technology. I have developed a strong foundation in both
                   frontend and backend technologies through my coursework and
                   personal projects, allowing me to create complete web
                   solutions from concept to deployment.
                 </p>
 
                 <p className="text-foreground/80 leading-relaxed">
-                  As I transition from student to professional, I'm excited to
+                  As I transition from student to professional, I am excited to
                   apply my skills in a real-world environment. I thrive on
                   solving complex problems and enjoy the process of learning new
                   technologies. What drives me most is creating applications
